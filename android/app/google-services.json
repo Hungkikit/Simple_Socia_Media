@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "230469933403",
+    "project_id": "asm-react-naitve",
+    "storage_bucket": "asm-react-naitve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230469933403:android:d75eca741efa772500627e",
+        "android_client_info": {
+          "package_name": "com.assignment_ph21878"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230469933403-ofg993h9ucv6qkuu9nlgskrmh860ovqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment_ph21878",
+            "certificate_hash": "21631612cf293b5089980c77e202a1a2494125ca"
+          }
+        },
+        {
+          "client_id": "230469933403-qhnbjl4an3e0sb57pm3i47uqg7dfp2fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkHP9bqbA4iaXf2TZRsyQMvVjMOSgcKAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230469933403-qhnbjl4an3e0sb57pm3i47uqg7dfp2fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230469933403:android:1d7de366e915a79000627e",
+        "android_client_info": {
+          "package_name": "com.ph21878_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230469933403-qhnbjl4an3e0sb57pm3i47uqg7dfp2fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkHP9bqbA4iaXf2TZRsyQMvVjMOSgcKAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230469933403-qhnbjl4an3e0sb57pm3i47uqg7dfp2fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

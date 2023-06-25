@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">230469933403-qhnbjl4an3e0sb57pm3i47uqg7dfp2fq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">230469933403</string>
+    <string name="google_api_key" translatable="false">AIzaSyDkHP9bqbA4iaXf2TZRsyQMvVjMOSgcKAk</string>
+    <string name="google_app_id" translatable="false">1:230469933403:android:d75eca741efa772500627e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDkHP9bqbA4iaXf2TZRsyQMvVjMOSgcKAk</string>
+    <string name="google_storage_bucket" translatable="false">asm-react-naitve.appspot.com</string>
+    <string name="project_id" translatable="false">asm-react-naitve</string>
+</resources>

@@ -1,0 +1,45 @@
+com.assignment_ph21878.app-transition-1.2.0-0 C:\Users\Tuan\.gradle\caches\transforms-3\08faf36401a2599550883082d6eae98d\transformed\transition-1.2.0\res
+com.assignment_ph21878.app-jetified-play-services-auth-20.3.0-1 C:\Users\Tuan\.gradle\caches\transforms-3\0e439dfccc069630cf7caefde194bf69\transformed\jetified-play-services-auth-20.3.0\res
+com.assignment_ph21878.app-coordinatorlayout-1.1.0-2 C:\Users\Tuan\.gradle\caches\transforms-3\165cce60bc265d08242cdaf0ec886b72\transformed\coordinatorlayout-1.1.0\res
+com.assignment_ph21878.app-jetified-play-services-base-18.0.1-3 C:\Users\Tuan\.gradle\caches\transforms-3\1c23e33edc68b9250c25bcfa67dd17e0\transformed\jetified-play-services-base-18.0.1\res
+com.assignment_ph21878.app-jetified-firebase-common-20.3.0-4 C:\Users\Tuan\.gradle\caches\transforms-3\26c129b5562318aa61510ad80266e25d\transformed\jetified-firebase-common-20.3.0\res
+com.assignment_ph21878.app-appcompat-1.4.1-5 C:\Users\Tuan\.gradle\caches\transforms-3\277e6c4ce3beb3ef5f8f4171bb6848c5\transformed\appcompat-1.4.1\res
+com.assignment_ph21878.app-jetified-drawee-2.6.0-6 C:\Users\Tuan\.gradle\caches\transforms-3\2ad4b4d93c615585e202a1cd1c129aad\transformed\jetified-drawee-2.6.0\res
+com.assignment_ph21878.app-jetified-lifecycle-process-2.4.0-7 C:\Users\Tuan\.gradle\caches\transforms-3\3fcafb4a42a82bfbdf6b4a6acabfb3a2\transformed\jetified-lifecycle-process-2.4.0\res
+com.assignment_ph21878.app-core-1.7.0-8 C:\Users\Tuan\.gradle\caches\transforms-3\4a488e01d429d2c7ada909279c99a93e\transformed\core-1.7.0\res
+com.assignment_ph21878.app-lifecycle-viewmodel-2.3.1-9 C:\Users\Tuan\.gradle\caches\transforms-3\4b2edf4d1d540ce8dbf37bc07a1c2b58\transformed\lifecycle-viewmodel-2.3.1\res
+com.assignment_ph21878.app-jetified-startup-runtime-1.0.0-10 C:\Users\Tuan\.gradle\caches\transforms-3\529b6597299ee103e4adfe593a33c188\transformed\jetified-startup-runtime-1.0.0\res
+com.assignment_ph21878.app-recyclerview-1.1.0-11 C:\Users\Tuan\.gradle\caches\transforms-3\5cfcd0431df9c74206a3b955c5a3a381\transformed\recyclerview-1.1.0\res
+com.assignment_ph21878.app-jetified-appcompat-resources-1.4.1-12 C:\Users\Tuan\.gradle\caches\transforms-3\60feec5f6cafcde2a5662dc12ab65e0e\transformed\jetified-appcompat-resources-1.4.1\res
+com.assignment_ph21878.app-jetified-flipper-0.125.0-13 C:\Users\Tuan\.gradle\caches\transforms-3\6355850037745eb78927cb32c40009a1\transformed\jetified-flipper-0.125.0\res
+com.assignment_ph21878.app-jetified-tracing-1.1.0-14 C:\Users\Tuan\.gradle\caches\transforms-3\69fa225888883414910556bcccb3f503\transformed\jetified-tracing-1.1.0\res
+com.assignment_ph21878.app-jetified-autofill-1.1.0-15 C:\Users\Tuan\.gradle\caches\transforms-3\7a97917c6dbd34a77492cc520d9813eb\transformed\jetified-autofill-1.1.0\res
+com.assignment_ph21878.app-jetified-emoji2-1.0.0-16 C:\Users\Tuan\.gradle\caches\transforms-3\7acde6b8a68dc9b0e1785b925000cad3\transformed\jetified-emoji2-1.0.0\res
+com.assignment_ph21878.app-jetified-viewpager2-1.0.0-17 C:\Users\Tuan\.gradle\caches\transforms-3\7cf0ba0c24fa98e5275b5331dddb784b\transformed\jetified-viewpager2-1.0.0\res
+com.assignment_ph21878.app-material-1.1.0-18 C:\Users\Tuan\.gradle\caches\transforms-3\7cf82d3939b51f7912f52aadbc758c78\transformed\material-1.1.0\res
+com.assignment_ph21878.app-cardview-1.0.0-19 C:\Users\Tuan\.gradle\caches\transforms-3\8005c1697f87ec111fcaeaa78434c979\transformed\cardview-1.0.0\res
+com.assignment_ph21878.app-fragment-1.3.6-20 C:\Users\Tuan\.gradle\caches\transforms-3\c190c8f92eba0088871b99b314cd7da2\transformed\fragment-1.3.6\res
+com.assignment_ph21878.app-jetified-annotation-experimental-1.1.0-21 C:\Users\Tuan\.gradle\caches\transforms-3\e1b903e10b3787bfe820e6fa10551cdd\transformed\jetified-annotation-experimental-1.1.0\res
+com.assignment_ph21878.app-jetified-emoji2-views-helper-1.0.0-22 C:\Users\Tuan\.gradle\caches\transforms-3\e781cf7ffd466ec0ae84eff95bab96e7\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.assignment_ph21878.app-lifecycle-runtime-2.4.0-23 C:\Users\Tuan\.gradle\caches\transforms-3\f1be3bf5f8e0ccbb2834161cbce3cf6a\transformed\lifecycle-runtime-2.4.0\res
+com.assignment_ph21878.app-jetified-core-ktx-1.5.0-24 C:\Users\Tuan\.gradle\caches\transforms-3\f2dacd03f19bbc16d2a0ac2f599f86f9\transformed\jetified-core-ktx-1.5.0\res
+com.assignment_ph21878.app-jetified-play-services-basement-18.1.0-25 C:\Users\Tuan\.gradle\caches\transforms-3\f65ff4b37adc50e08a0564dbbd5f94f2\transformed\jetified-play-services-basement-18.1.0\res
+com.assignment_ph21878.app-jetified-savedstate-1.1.0-26 C:\Users\Tuan\.gradle\caches\transforms-3\ff3b9f79a70b65590db8a905b37743dd\transformed\jetified-savedstate-1.1.0\res
+com.assignment_ph21878.app-jetified-react-android-0.71.1-debug-27 C:\Users\Tuan\.gradle\caches\transforms-3\ffb538d3df82eda3a5fb1cf73e970095\transformed\jetified-react-android-0.71.1-debug\res
+com.assignment_ph21878.app-google-services-28 D:\React - native\Assignment_PH21878\android\app\build\generated\res\google-services\debug
+com.assignment_ph21878.app-pngs-29 D:\React - native\Assignment_PH21878\android\app\build\generated\res\pngs\debug
+com.assignment_ph21878.app-resValues-30 D:\React - native\Assignment_PH21878\android\app\build\generated\res\resValues\debug
+com.assignment_ph21878.app-rs-31 D:\React - native\Assignment_PH21878\android\app\build\generated\res\rs\debug
+com.assignment_ph21878.app-mergeDebugResources-32 D:\React - native\Assignment_PH21878\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.assignment_ph21878.app-mergeDebugResources-33 D:\React - native\Assignment_PH21878\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.assignment_ph21878.app-merged_res-34 D:\React - native\Assignment_PH21878\android\app\build\intermediates\merged_res\debug
+com.assignment_ph21878.app-debug-35 D:\React - native\Assignment_PH21878\android\app\src\debug\res
+com.assignment_ph21878.app-main-36 D:\React - native\Assignment_PH21878\android\app\src\main\res
+com.assignment_ph21878.app-packaged_res-37 D:\React - native\Assignment_PH21878\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-38 D:\React - native\Assignment_PH21878\node_modules\@react-native-firebase\app\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-39 D:\React - native\Assignment_PH21878\node_modules\react-native-image-picker\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-40 D:\React - native\Assignment_PH21878\node_modules\react-native-pager-view\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-41 D:\React - native\Assignment_PH21878\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-42 D:\React - native\Assignment_PH21878\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-43 D:\React - native\Assignment_PH21878\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
+com.assignment_ph21878.app-packaged_res-44 D:\React - native\Assignment_PH21878\node_modules\react-native-youtube\android\build\intermediates\packaged_res\debug
